@@ -2,13 +2,9 @@
 
 ![in Development](https://img.shields.io/badge/Project%20-%20Orientado-green) 
 
-Clone da página do Tinder, Orientação de Imã Learning Place.
-
 ## 🚀 Orientação
 
 Orientado por Imã Learning Place.
-
-r.
 
 
 🛠️Construído com
@@ -18,7 +14,7 @@ CSS
 
 ## 🚀 Aprendizagem
 
-Através deste, puder aprender e a cada dia mais me especializar, foi um dos primeiros contatos com essas linguagens, foi enriquecedo
+Através deste, puder aprender e a cada dia mais me especializar, foi um dos primeiros contatos com essas linguagens, foi enriquecedor.
 
 
 ## Developer
