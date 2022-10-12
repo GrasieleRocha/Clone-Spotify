@@ -14,7 +14,7 @@ CSS
 
 ## 🚀 Aprendizagem
 
-Através deste, puder aprender e a cada dia mais me especializar, foi um dos primeiros contatos com essas linguagens, foi enriquecedor.
+Através deste, puder aprender mais sobre html e css de forma prática, foi um dos primeiros contatos com essas linguagens, foi enriquecedor.
 
 
 ## Developer
